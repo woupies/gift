@@ -616,9 +616,9 @@ function loadSpotifyPlaylist(playlistNumber) {
         },
         2: {
             // Ganti dengan playlist kedua kamu
-            embedUrl: 'https://open.spotify.com/embed/playlist/3gPSenyxZMdB3A54HeEruz?si=6b4dec830d4f4a48',
+            embedUrl: 'https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ?si=4edd98828a054f0e',
             name: 'Love Songs Collection',
-            description: 'Koleksi lagu cinta terbaik untuk kita ❤️'
+            description: 'Lagu Favorit Kamu ❤️'
         },
         3: {
             // Ganti dengan playlist ketiga kamu
