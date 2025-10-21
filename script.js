@@ -203,7 +203,6 @@ function initializeMessage() {
             <div class="message-content">
                 <!-- Content will be populated by typewriter -->
             </div>
-            <button class="skip-btn">SKIP</button>
         `;
         
         // Add skip button event listener
@@ -227,7 +226,7 @@ function startTypewriter() {
 
 Happy Birthday!
 
-Hari ini aku pengen kamu ngerasain semua hal positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Doa yg terbaik untuk buat kmu, maaf gabisa ngerayain langsung, tapi segenap hatiku mengucapkan selamat bertambah usia ke 18 ini. Semoga hal baik selalu beriringan ke kamu. Semoga semesta senantiasa berpihak sama kamu, semoga jalanmu untuk mencapai masa depan yang cerah di permudahkan, teruslah tumbuh, teruslah melangkah & berbahagia aku akan selalu bangga atas setiap proses yang sudah kamu lalui. selamat berkelana, i will always support u from afar 🤍.
+Hari ini aku pengen kamu ngerasain semua hal positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Doa yg terbaik untuk kmu, segenap hatiku mengucapkan selamat bertambah usia ke 18 ini. Semoga hal baik selalu beriringan ke kamu. Semoga semesta senantiasa berpihak sama kamu, semoga jalanmu untuk mencapai masa depan yang cerah di permudahkan, teruslah tumbuh, teruslah melangkah & berbahagia aku akan selalu bangga atas setiap proses yang sudah kamu lalui. selamat berkelana, i will always support u from afar 🤍.
 
 Terima kasih udah jadi bagian hidup aku yang paling berharga. Kamu bener' bikin hari' aku jadi lebih berarti dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik banget sih!).
 
@@ -322,7 +321,7 @@ function startPhotoShow() {
     // Foto lokal dari folder images
     const photos = [
         {
-            text: 'HaHAHAHA',
+            text: 'HAHAHAHA',
             image: './images/photo1.jpg'
         },
         {
